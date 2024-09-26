@@ -1,16 +1,13 @@
-## Hi there 👋
+## ola esse e meu perfil 🖤
+meu nome é Juan Viruel 
 
-<!--
-**JuanVGostrovski/JuanVGostrovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem p5js
+- Eu usso esse espaço para para minha organização e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entra em contato comigo 📧
+
+  juan.ostrovski@escola.pr.gov.br
+
+  ![](https://media.tenor.com/UZptYVE7PHoAAAAM/yaya-mijo-ya-ya-ya-mijo-ya.gif)
